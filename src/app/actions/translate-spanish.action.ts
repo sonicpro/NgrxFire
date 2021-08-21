@@ -1,3 +1,3 @@
 import { createAction } from '@ngrx/store';
 
-export const translateSpanish = createAction('[TRANSLATE] Spanish');
+export const translateSpanish = createAction('TRANSLATE SPANISH');
